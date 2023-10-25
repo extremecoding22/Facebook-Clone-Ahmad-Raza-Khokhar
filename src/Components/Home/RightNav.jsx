@@ -27,7 +27,7 @@ const RightNav = () => {
           </div>
 
           <div className="secondStack">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar Web Services Page Facebook" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar Web Services Page Facebook" className="pageProfile" />
             <div className="pageName">Ahmad Raza Web Sercies</div>
           </div>
 
@@ -55,70 +55,70 @@ const RightNav = () => {
           </div><br />
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
@@ -126,35 +126,35 @@ const RightNav = () => {
 
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>
           </div>
           <div className="rightStack3">
           <div className="block3">
-            <img src="../images/ar4.jpg" alt="Ahmad Raza Khokhar" className="pageProfile" />
+            <img src="../images/ar4.JPG" alt="Ahmad Raza Khokhar" className="pageProfile" />
             <div className="BrandNames">Ahhmad Raza Khokhar</div>
             
           </div>

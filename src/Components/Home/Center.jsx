@@ -57,7 +57,7 @@ function soon(){
       <div className="storyPanel">
         <div className="overFloat">
       <div className="storyBar">
-        <img src="../images/ar3.jpg" alt="Ahmad Raza Khokhar" className="storyMain  xyz" />
+        <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar" className="storyMain  xyz" />
         <div className="blockOfStory">
             <img src="../images/addStory.svg" alt="Add Story" className="plus" />
             <h2 className="storyText">
@@ -66,27 +66,27 @@ function soon(){
         </div>
         </div>
         <div className="storyBar">
-        <img src="../images/ar5.jpg" alt="Ahmad Raza Khokhar" className="story" />
+        <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar" className="story" />
         <div className="storyTitle">Ahmad Raza Khokhar</div>
         </div>
         <div className="storyBar">
-        <img src="../images/ar5.jpg" alt="Ahmad Raza Khokhar" className="story" />
+        <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar" className="story" />
         <div className="storyTitle">Ahmad Raza Khokhar</div>
         </div>
         <div className="storyBar">
-        <img src="../images/ar5.jpg" alt="Ahmad Raza Khokhar" className="story" />
+        <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar" className="story" />
         <div className="storyTitle">Ahmad Raza Khokhar</div>
         </div>
         <div className="storyBar">
-        <img src="../images/ar5.jpg" alt="Ahmad Raza Khokhar" className="story" />
+        <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar" className="story" />
         <div className="storyTitle">Ahmad Raza Khokhar</div>
         </div>
         <div className="storyBar">
-        <img src="../images/ar5.jpg" alt="Ahmad Raza Khokhar" className="story" />
+        <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar" className="story" />
         <div className="storyTitle">Ahmad Raza Khokhar</div>
         </div>
         <div className="storyBar">
-        <img src="../images/ar5.jpg" alt="Ahmad Raza Khokhar" className="story" />
+        <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar" className="story" />
         <div className="storyTitle">Ahmad Raza Khokhar</div>
       </div>
       </div>
@@ -98,7 +98,7 @@ function soon(){
        
        <div className="createPost">
         <div className="panelStack">
-            <img src="../images/ar2.jpg" alt="Ahmad Raza Khokhar Site Developer" className="createPic" />
+            <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar Site Developer" className="createPic" />
             <div className="whatToPost"><div className="txt" onClick={uploader}>What's on your mind, Ahmad?</div></div>
             <hr className="hr2" />
 

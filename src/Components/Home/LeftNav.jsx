@@ -14,7 +14,7 @@ const LeftNav = () => {
     <div>
      <div className="leftNav">
         <div className=" stacksBar profileBar">
-            <img src="./images/ar3.jpg" alt="Ahmad Raza Khokhar" className="leftIconsNavbar profile" />
+            <img src="./images/ar3.JPG" alt="Ahmad Raza Khokhar" className="leftIconsNavbar profile" />
 
             <div className="name">Ahmad Raza Khokhar</div>
         </div>

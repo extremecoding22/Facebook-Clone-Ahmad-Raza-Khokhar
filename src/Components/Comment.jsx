@@ -16,7 +16,7 @@ const like = () => {
   return (
     <div>
       <div className="comment">
-        <img src="../images/ar1.jpg" alt="Ahmad Raza Khokhar" className="profileComment" />
+        <img src="../images/ar1.JPG" alt="Ahmad Raza Khokhar" className="profileComment" />
         <div className="commentContainer">
             <div className="userName2">Ahmad Raza Khokhar</div>
             <div className="actualComment">

@@ -193,7 +193,7 @@ const Group = () => {
                   </div>
                 </div>
                 <div className="centerPart">
-                  <img src="./images/ar4.jpg" alt="Ahmad Raza Khokhar MERN Stack Developer / Full Stack developer" className="bImage" />
+                  <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar MERN Stack Developer / Full Stack developer" className="bImage" />
                 </div>
 
               </div>
@@ -217,7 +217,7 @@ const Group = () => {
   </div>
 </div>
 <div className="centerPart">
-  <img src="./images/ar4.jpg" alt="Ahmad Raza Khokhar MERN Stack Developer / Full Stack developer" className="bImage" />
+  <img src="https://scontent.flhe2-2.fna.fbcdn.net/v/t39.30808-6/394332334_1391854581711230_4142585902951305563_n.jpg?stp=c0.50.450.450a_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEobyF2aGm5MkQIASp90HJbfwGQw6G-3V9_AZDDob7dXwsk7kTw-zjfPywSkX-Wp1XGGaLavQNUmOpGBdGBaAAe&_nc_ohc=MPwghNxZ7GAAX-7mkZt&_nc_zt=23&_nc_ht=scontent.flhe2-2.fna&oh=00_AfCZND86mkEMeDtuutm1NUqxGocA-9tdUZS5m0xElEn1wA&oe=653F28B4" alt="Ahmad Raza Khokhar MERN Stack Developer / Full Stack developer" className="bImage" />
 </div>
 
 </div>

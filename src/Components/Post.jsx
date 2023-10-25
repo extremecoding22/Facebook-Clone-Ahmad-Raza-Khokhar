@@ -210,7 +210,7 @@ const [desc, setDesc] = useState('');
       <div className="addCommentSection" style={{display:displayFunc?  'block':'none'}}>
 
         <form className="cont3" onSubmit={addComment}>
-          <img src="../images/ar1.jpg" alt="Ahmad Raza Khokhar" className="profilePic" />
+          <img src="../images/ar1.JPG" alt="Ahmad Raza Khokhar" className="profilePic" />
           <textarea type="text" id="comment" placeholder='Write a comment...' value={desc} onChange={(e)=>setDesc(e.target.value)}> </textarea>
           <button type="submit" className='btnComment'>
             <img src="../images/send.svg" alt="Send Comment " className="send" />
